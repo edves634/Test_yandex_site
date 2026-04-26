@@ -39,7 +39,7 @@
 
 ---
 
-### 1.3. [Производительность (Lighthouse)]([https://raw.githubusercontent.com/edves634/Test_yandex_site/refs/heads/main/Lighthouse/Lighthouse.md](https://github.com/edves634/Test_yandex_site/blob/main/Lighthouse/Lighthouse.md)
+### 1.3. [Производительность (Lighthouse)](https://github.com/edves634/Test_yandex_site/blob/main/Lighthouse/Lighthouse.md)
 
 Lighthouse для десктопа показал хорошие оценки (производительность 0.87, лучшие практики 0.96), но выявил проблемы с весом изображений, кэшированием и контрастностью. На мобильных устройствах производительность заметно ниже (0.69) — критическое время LCP и TTI превышает 7.8 с. Основная рекомендация: оптимизировать изображения, настроить кэширование и устранить блокирующую отрисовку CSS.
 
