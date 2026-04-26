@@ -1,6 +1,6 @@
 ## 📊 Краткий отчёт Lighthouse для десктопа
 
-(Lighthouse/image/desktop.jpg)
+<img src="Lighthouse/image/desktop.jpg" alt="Lighthouse desktop" width="600">
 
 **URL проверки:** `http://localhost:8000/`  
 **Версия Lighthouse:** 13.0.1  
@@ -70,6 +70,8 @@
 
 
 ## 📊 Краткий отчёт Lighthouse для мобильного устройства
+
+<img src="Lighthouse/image/mobile.jpg" alt="Lighthouse desktop" width="600">
 
 **URL проверки:** `http://localhost:8000/`  
 **Версия Lighthouse:** 13.0.1  
