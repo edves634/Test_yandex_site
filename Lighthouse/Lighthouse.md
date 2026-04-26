@@ -1,10 +1,12 @@
 ## 📊 Краткий отчёт Lighthouse для десктопа
 
-![Результат Lighthouse для десктопа](https://raw.githubusercontent.com/edves634/Test_yandex_site/main/Lighthouse/image/desktop.jpg)
-
 **URL проверки:** `http://localhost:8000/`  
 **Версия Lighthouse:** 13.0.1  
 **Дата:** 26 апреля 2026 г.
+
+![Результат Lighthouse для десктопа](https://raw.githubusercontent.com/edves634/Test_yandex_site/main/Lighthouse/image/desktop.jpg)
+
+
 
 ### 🎯 Общие оценки категорий
 
@@ -76,6 +78,9 @@
 **URL проверки:** `http://localhost:8000/`  
 **Версия Lighthouse:** 13.0.1  
 **Дата:** 26 апреля 2026 г.
+
+![Результат Lighthouse для десктопа](https://raw.githubusercontent.com/edves634/Test_yandex_site/main/Lighthouse/image/mobile.jpg)
+
 
 ### 🎯 Общие оценки категорий
 
