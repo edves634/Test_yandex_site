@@ -1,6 +1,6 @@
 ## 📊 Краткий отчёт Lighthouse для десктопа
 
-<img src="Lighthouse/image/desktop.jpg" alt="Lighthouse desktop" width="600">
+![Результат Lighthouse для десктопа](./Lighthouse/image/desktop.jpg)
 
 **URL проверки:** `http://localhost:8000/`  
 **Версия Lighthouse:** 13.0.1  
