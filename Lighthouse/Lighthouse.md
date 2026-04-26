@@ -1,6 +1,6 @@
 ## 📊 Краткий отчёт Lighthouse для десктопа
 
-![Результат Lighthouse для десктопа](./Lighthouse/image/desktop.jpg)
+![Результат Lighthouse для десктопа]([./Lighthouse/image/desktop.jpg](https://github.com/edves634/Test_yandex_site/blob/main/Lighthouse/image/desktop.jpg])
 
 **URL проверки:** `http://localhost:8000/`  
 **Версия Lighthouse:** 13.0.1  
