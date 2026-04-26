@@ -74,6 +74,6 @@
 
 ---
 
-### 1.5. Технические ошибки [https://github.com/edves634/Test_yandex_site/blob/main/Технические%20ошибки.md]
+### 1.5. Технические ошибки
 
-Отчёт по тестированию вёрстки: HTML + CSS + JavaScript
+> 🔗 [Полный список технических ошибок на GitHub](https://github.com/...)
