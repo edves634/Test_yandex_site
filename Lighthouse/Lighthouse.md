@@ -1,6 +1,6 @@
 ## 📊 Краткий отчёт Lighthouse для десктопа
 
-()
+(Lighthouse/image/desktop.jpg)
 
 **URL проверки:** `http://localhost:8000/`  
 **Версия Lighthouse:** 13.0.1  
