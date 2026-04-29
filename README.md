@@ -116,7 +116,7 @@
 - Логотип имеет смещение ~44px относительно макета.
 - Декоративные слои (жёлтый эллипс, шахматы, город) полностью отсутствуют.
 
-> 📸 Скриншоты проблем находятся в папке `screenshots/` (файлы: `320px_issues.png`, `768px_timeline_broken.png`, `1920px_header_only.png`, `safari_webkit_375px_timeline.png`).
+> 📸 Скриншоты проблем находятся в папке `screenshots/` (файлы: `768px_timeline_broken.png`, `1920px_header_only.png`, `safari_webkit_375px_timeline.png`).
 
 ---
 
