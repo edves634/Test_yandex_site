@@ -40,7 +40,7 @@
 
 ### 3.1. Десктоп
 
-![Результат Lighthouse для десктопа](./Lighthouse/image/desktop.jpg)
+![Результат Lighthouse для десктопа](./screenshotsdesktop_lighthouse.png)
 
 | Категория | Оценка | Статус |
 |-----------|--------|--------|
@@ -58,7 +58,7 @@
 
 ### 3.2. Мобильное устройство
 
-![Результат Lighthouse для мобильных устройств](./Lighthouse/image/mobile.jpg)
+![Результат Lighthouse для мобильных устройств](./screenshots/mobile_lighthouse.png)
 
 | Категория | Оценка | Статус |
 |-----------|--------|--------|
