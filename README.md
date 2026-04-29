@@ -41,7 +41,7 @@
 
 ### 3.1. Десктоп
 
-(./screenshots/desktop_lighthouse.png)
+![Альтернативный текст](./screenshots/desktop_lighthouse.png)
 
 | Категория | Оценка | Статус |
 |-----------|--------|--------|
