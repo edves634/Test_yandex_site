@@ -40,7 +40,7 @@
 
 ### 3.1. Десктоп
 
-![Результат Lighthouse для десктопа](./screenshotsdesktop_lighthouse.png)
+![Результат Lighthouse для десктопа](./screenshots/desktop_lighthouse.png)
 
 | Категория | Оценка | Статус |
 |-----------|--------|--------|
